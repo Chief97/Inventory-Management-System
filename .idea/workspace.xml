@@ -6,8 +6,19 @@
   <component name="ProjectId" id="1sFEzongLg7JdMXC05e0ucdXIQJ" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1620460318311">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1620460318311" />
+    <state x="234" y="93" key="Vcs.Push.Dialog.v2" timestamp="1620460330246">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="234" y="93" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1620460330246" />
   </component>
 </project>
